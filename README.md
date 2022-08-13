@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hyeonseung Kim
 
 <!--
 **Hyeonseung0103/Hyeonseung0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Data Scientist Jr.
+
+### Interest
+
+- CV(Computer Vision)
+
+- NLP(Natural Language Processing)
+
+- Data Analysis
+
+- Data for Education
+
