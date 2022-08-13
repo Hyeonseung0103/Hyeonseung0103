@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 
 - Data for Education
 
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://yngie-c.github.io/)](https://hyeonseung0103.github.io/)
+
+</div>
